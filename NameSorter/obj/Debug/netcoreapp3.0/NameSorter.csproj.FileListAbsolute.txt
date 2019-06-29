@@ -1,0 +1,11 @@
+X:\PROJECTs\NameSorter\NameSorter\bin\Debug\netcoreapp3.0\NameSorter.exe
+X:\PROJECTs\NameSorter\NameSorter\bin\Debug\netcoreapp3.0\NameSorter.deps.json
+X:\PROJECTs\NameSorter\NameSorter\bin\Debug\netcoreapp3.0\NameSorter.runtimeconfig.json
+X:\PROJECTs\NameSorter\NameSorter\bin\Debug\netcoreapp3.0\NameSorter.runtimeconfig.dev.json
+X:\PROJECTs\NameSorter\NameSorter\bin\Debug\netcoreapp3.0\NameSorter.dll
+X:\PROJECTs\NameSorter\NameSorter\bin\Debug\netcoreapp3.0\NameSorter.pdb
+X:\PROJECTs\NameSorter\NameSorter\obj\Debug\netcoreapp3.0\NameSorter.csproj.CoreCompileInputs.cache
+X:\PROJECTs\NameSorter\NameSorter\obj\Debug\netcoreapp3.0\NameSorter.AssemblyInfoInputs.cache
+X:\PROJECTs\NameSorter\NameSorter\obj\Debug\netcoreapp3.0\NameSorter.AssemblyInfo.cs
+X:\PROJECTs\NameSorter\NameSorter\obj\Debug\netcoreapp3.0\NameSorter.dll
+X:\PROJECTs\NameSorter\NameSorter\obj\Debug\netcoreapp3.0\NameSorter.pdb
