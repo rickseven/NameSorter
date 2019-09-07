@@ -1,0 +1,6 @@
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\bin\Release\DotNet.Sorter.Domain.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\bin\Release\DotNet.Sorter.Domain.pdb
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\obj\Release\DotNet.Sorter.Domain.csprojAssemblyReference.cache
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\obj\Release\DotNet.Sorter.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\obj\Release\DotNet.Sorter.Domain.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\obj\Release\DotNet.Sorter.Domain.pdb

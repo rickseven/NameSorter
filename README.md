@@ -1,7 +1,5 @@
-# NameSorter
-Sorting by last name ascending of name list in text file
-
 # Usage
-NameSorter ./filename.txt
+DotNet.Sorter ./unsorted-names-list.txt
 
-# Unit Test Available
+# Screenshot
+![image](https://drive.google.com/uc?export=view&id=1JCJ2KXVgh5nS_DWZntknaND0c_S_ccgl)
