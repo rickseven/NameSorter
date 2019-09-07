@@ -1,0 +1,9 @@
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\bin\Debug\DotNet.Sorter.Data.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\bin\Debug\DotNet.Sorter.Data.pdb
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\bin\Debug\DotNet.Sorter.Domain.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\bin\Debug\DotNet.Sorter.Domain.pdb
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\obj\Debug\DotNet.Sorter.Data.csprojAssemblyReference.cache
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\obj\Debug\DotNet.Sorter.Data.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\obj\Debug\DotNet.Sorter.Data.csproj.CopyComplete
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\obj\Debug\DotNet.Sorter.Data.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Data\obj\Debug\DotNet.Sorter.Data.pdb

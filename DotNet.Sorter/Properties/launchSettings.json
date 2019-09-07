@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotNet.Sorter": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter\\unsorted-names-list.txt"
+    }
+  }
+}

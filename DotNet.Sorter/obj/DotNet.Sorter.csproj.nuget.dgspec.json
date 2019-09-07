@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter\\DotNet.Sorter.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Data\\DotNet.Sorter.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Data\\DotNet.Sorter.Data.csproj",
+        "projectName": "DotNet.Sorter.Data",
+        "projectPath": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Data\\DotNet.Sorter.Data.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Domain\\DotNet.Sorter.Domain.csproj": {
+                "projectPath": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Domain\\DotNet.Sorter.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Domain\\DotNet.Sorter.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Domain\\DotNet.Sorter.Domain.csproj",
+        "projectName": "DotNet.Sorter.Domain",
+        "projectPath": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Domain\\DotNet.Sorter.Domain.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter\\DotNet.Sorter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter\\DotNet.Sorter.csproj",
+        "projectName": "DotNet.Sorter",
+        "projectPath": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter\\DotNet.Sorter.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Data\\DotNet.Sorter.Data.csproj": {
+                "projectPath": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Data\\DotNet.Sorter.Data.csproj"
+              },
+              "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Domain\\DotNet.Sorter.Domain.csproj": {
+                "projectPath": "D:\\Projects\\DotNet.Sorter\\DotNet.Sorter.Domain\\DotNet.Sorter.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

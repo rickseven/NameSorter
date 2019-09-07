@@ -1,0 +1,16 @@
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.deps.json
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.runtimeconfig.json
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.runtimeconfig.dev.json
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.pdb
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.Data.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.Domain.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.Data.pdb
+D:\Projects\DotNet.Sorter\DotNet.Sorter\bin\Debug\netcoreapp2.2\DotNet.Sorter.Domain.pdb
+D:\Projects\DotNet.Sorter\DotNet.Sorter\obj\Debug\netcoreapp2.2\DotNet.Sorter.csprojAssemblyReference.cache
+D:\Projects\DotNet.Sorter\DotNet.Sorter\obj\Debug\netcoreapp2.2\DotNet.Sorter.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet.Sorter\DotNet.Sorter\obj\Debug\netcoreapp2.2\DotNet.Sorter.AssemblyInfoInputs.cache
+D:\Projects\DotNet.Sorter\DotNet.Sorter\obj\Debug\netcoreapp2.2\DotNet.Sorter.AssemblyInfo.cs
+D:\Projects\DotNet.Sorter\DotNet.Sorter\obj\Debug\netcoreapp2.2\DotNet.Sorter.csproj.CopyComplete
+D:\Projects\DotNet.Sorter\DotNet.Sorter\obj\Debug\netcoreapp2.2\DotNet.Sorter.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter\obj\Debug\netcoreapp2.2\DotNet.Sorter.pdb

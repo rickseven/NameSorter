@@ -1,0 +1,5 @@
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\bin\Debug\DotNet.Sorter.Domain.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\bin\Debug\DotNet.Sorter.Domain.pdb
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\obj\Debug\DotNet.Sorter.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\obj\Debug\DotNet.Sorter.Domain.dll
+D:\Projects\DotNet.Sorter\DotNet.Sorter.Domain\obj\Debug\DotNet.Sorter.Domain.pdb
