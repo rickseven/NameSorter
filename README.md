@@ -1,3 +1,6 @@
+# Description
+This is a console application used to sort text data from a text file.
+
 # Usage
 DotNet.Sorter ./unsorted-names-list.txt
 
